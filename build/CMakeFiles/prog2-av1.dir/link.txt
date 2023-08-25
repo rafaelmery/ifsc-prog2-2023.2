@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/prog2-av1.dir/main.c.o -o prog2-av1 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rafaelmery/IFSC/2023.2/ProgII/AV1/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/prog2-av1.dir/main.c.o -c /home/rafaelmery/IFSC/2023.2/ProgII/AV1/main.c",
+  "file": "/home/rafaelmery/IFSC/2023.2/ProgII/AV1/main.c"
+}
+]
